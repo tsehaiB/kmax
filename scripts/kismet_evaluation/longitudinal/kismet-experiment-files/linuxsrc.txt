@@ -1,0 +1,9 @@
+https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.16.tar.xz linux-5.16
+https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.11.tar.xz linux-5.11
+https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.5.tar.xz linux-5.5
+https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.tar.xz linux-5.0
+https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.15.tar.xz linux-4.15
+https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.10.tar.xz linux-4.10
+https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.tar.xz linux-4.4
+https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.19.tar.xz linux-3.19
+https://cdn.kernel.org/pub/linux/kernel/v3.x/linux-3.13.tar.xz linux-3.13
